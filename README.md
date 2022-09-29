@@ -18,7 +18,7 @@ To run this script, you need a Macbook.
 You also ideally want all the files you want to be renamed in one folder. 
 
 # Installation
-Simply install the [Rename GoPro Files Script](Rename-GoPro-Files.scpt) file.
+Download the [Rename GoPro Files Script](Rename-GoPro-Files.scpt) file.
 
 # How to Use the Project
 Open the Rename-GoPro-Files.scpt with Script Editor, which should come installed with any Apple Mac PC.
